@@ -1,0 +1,42 @@
+body {
+    background-image: url("../img/bg.png");
+    background-attachment: moving;
+    background-color: #edf0f3;
+    border-style: solid;
+    padding: 20px;
+    text-decoration-color: rgb(42, 165, 114);
+}
+p {
+    line-height: 0%;
+}
+
+
+dt > b {
+   
+    font-size: 24px;
+    text-decoration: underline;
+    font-style: Times;
+    padding: 10px;
+    
+    
+}
+table {
+    padding: 10px;
+}
+
+a.ab {
+    border: solid 1px black;
+   
+    padding: 10px;
+
+}
+dt > a {
+    padding: 10px;
+}
+
+li {
+    font-size: 20px;
+}
+table {
+    font-size: 20px;
+}
